@@ -47,4 +47,4 @@ Sistema de gerenciamento de academia em Java utilizando conceitos de POO.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
-Obrigado por visitar! ✨
+Obrigado por visitar! 
