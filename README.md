@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu GitHub! 👋
+# Bem-vindo(a) ao meu GitHub! 
 
 Olá, sou **Domingos Machado**, desenvolvedor Full Stack com especialização em Frontend. Formado em **TIC - Software** pelo **Serratec**, trabalho com desenvolvimento web utilizando JavaScript, React, Java e Spring Boot.
 
@@ -29,7 +29,7 @@ Foco em desenvolvimento de aplicações responsivas, APIs RESTful e integração
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-## 🚀 Projetos em Destaque:
+##  Projetos em Destaque:
 
 **[E-commerce React](https://github.com/DomingosMachado/projeto-final-react-g3)**  
 Sistema completo de e-commerce com React + Vite, Context API e integração com API REST.
