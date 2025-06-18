@@ -45,7 +45,7 @@ API REST com Spring Boot incluindo funcionalidades como devolução de pedidos.
 - **[Gerenciamento Academia POO](https://github.com/bernardoennes/trabalho-poo-academia)**  
 Sistema em Java para gerenciamento de academia com conceitos de POO.
 
-#### 📬 Conecte-se comigo:
+####  Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
