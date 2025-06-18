@@ -1,4 +1,4 @@
-# 👋 Olá! / Hello!
+#  Olá! / Hello!
 
 <details open>
   <summary>🇧🇷 Versão em Português</summary>
@@ -9,7 +9,7 @@ Olá, sou **Domingos Machado**, desenvolvedor Full Stack com especialização em
 
 Foco em desenvolvimento de aplicações responsivas, APIs RESTful e integração de sistemas. Experiência com metodologias ágeis e versionamento de código.
 
-#### 🛠️ Tecnologias que eu uso:
+####  Tecnologias que eu uso:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,11 +19,11 @@ Foco em desenvolvimento de aplicações responsivas, APIs RESTful e integração
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-#### 🗄️ Bancos de Dados:
+####  Bancos de Dados:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### 💻 Ferramentas:
+####  Ferramentas:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
@@ -31,7 +31,7 @@ Foco em desenvolvimento de aplicações responsivas, APIs RESTful e integração
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-#### 🚀 Projetos em Destaque:
+####  Projetos em Destaque:
 
 - **[E-commerce React](https://github.com/DomingosMachado/projeto-final-react-g3)**  
 Sistema completo de e-commerce com React + Vite, Context API e integração com API REST.
@@ -62,7 +62,7 @@ Hi, I'm Domingos Machado, a Full Stack Developer with a specialization in Fronte
 
 I'm focused on building responsive applications, RESTful APIs, and system integration, and I'm experienced in agile methodologies and version control.
 
-#### 🛠️ Technologies I Use:
+####  Technologies I Use:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -72,11 +72,11 @@ I'm focused on building responsive applications, RESTful APIs, and system integr
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-#### 🗄️ Databases:
+####  Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### 💻 Workstation Tools:
+####  Workstation Tools:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
@@ -84,7 +84,7 @@ I'm focused on building responsive applications, RESTful APIs, and system integr
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-#### 🚀 Featured Projects:
+####  Featured Projects:
 
 - **[E-commerce React](https://github.com/DomingosMachado/projeto-final-react-g3)**  
 A complete e-commerce system built with React + Vite, Context API, and REST API integration.
@@ -98,7 +98,7 @@ REST API built with Spring Boot, including features such as order returns.
 - **[Gym Management OOP](https://github.com/bernardoennes/trabalho-poo-academia)**  
 Java-based gym management system applying Object-Oriented Programming concepts.
 
-#### 📬 Connect with Me:
+####  Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 
